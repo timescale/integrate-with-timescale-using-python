@@ -1,0 +1,8 @@
+{
+  "databasename": "tsdb",
+  "serviceurl": "postgres://tsdbadmin:gy3fj47rzrcdgjxa@wihr0840pq.c8nmagk8zh.tsdb.cloud.timescale.com:32387/tsdb?sslmode=require",
+  "host": "wihr0840pq.c8nmagk8zh.tsdb.cloud.timescale.com",
+  "port": "32387",
+  "user": "tsdbadmin",
+  "password": "sigh"
+}
