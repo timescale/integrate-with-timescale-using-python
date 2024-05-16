@@ -14,4 +14,14 @@ ensure deliver in all conditions.
 This page shows you how to combine large amounts of real time data to automatically 
 ensure medical supplies are always delivered on time.   
 
+You can:
+*  [Read the code](./link-to-file.sql) - see the code that implements this story.
+*  [Read the docs](https://docs.timescale.com/tutorials/latest/) - follow the workflow and understand the call sequence.
+
+#  Run this app
+
+To test the functionality in this app:
+
+1. Do this
+1. Then that
 

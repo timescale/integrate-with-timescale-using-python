@@ -276,3 +276,10 @@ fabric.properties
 .idea/**/azureSettings.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij
+/.idea/
+/.idea/.gitignore
+/.idea/integrate-with-timescale-using-python.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml

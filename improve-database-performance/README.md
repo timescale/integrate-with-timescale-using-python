@@ -6,7 +6,13 @@ In addition, Hypertables give improved performance and user experience for time-
 
 You can compress time-series data to reduce the amount of storage required, and increase the speed of some queries. 
 
-This app shows you how to 
+You can:
+*  [Read the code](./link-to-file.sql) - see the queries that implement this story.
+*  [Read the docs](https://docs.timescale.com/tutorials/latest/) - follow the workflow and understand the call sequence.
 
+#  Run this app
 
-When new data is added to your database, it is in the form of uncompressed rows. Timescale uses a built-in job scheduler to convert this data to the form of compressed columns. This occurs across chunks of Timescale hypertables.
+To test the functionality in this app:
+
+1. Do this
+1. Then that
